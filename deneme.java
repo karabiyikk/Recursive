@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class deneme {
+public class Main {
 
     static int Recursive(int base, int pow) {
         Scanner input = new Scanner(System.in);
